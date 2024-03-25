@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on Front-End Developer
-- 🌱 I’m currently learning CSS, JavaScript and Node.js
+- 🌱 I’m currently learning React and Power Platform.
 - 💬 Ask me about programming
 
 <div align="center">
